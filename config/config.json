@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sequelize",
-    "password": "laVFwZIwaotGryoSdQpa03kuMlPVGFU2",
-    "database": "sequelize_db_k1u3",
-    "host": "dpg-cp28csv79t8c73foqu8g-a.singapore-postgres.render.com",
+    "username": "ptudwprojectsequelize",
+    "password": "TC5m1YyfRIQZAcHr0h3v7aWN0XDxbgj3",
+    "database": "ptudwprojectsequelize",
+    "host": "dpg-cp2dcp6n7f5s73ffpir0-a.oregon-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
